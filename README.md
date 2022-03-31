@@ -15,5 +15,5 @@
 <ul>
 <h4>Limpeza</h4>
   <li>Analise exploratoria</li>
-  <li>Remoção de valores Nuls=ls</li>
+  <li>Remoção de valores Nulls</li>
 </ul>
