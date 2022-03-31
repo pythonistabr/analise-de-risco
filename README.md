@@ -1,5 +1,5 @@
 # projeto1_analise_de_risco
-<p>Este repositiorio contém Scripts de um projeto de análise de risco desenvolvido utilizando as bibliotecas e tecnologias:
+<p>Este repositiorio contém Scripts de um projeto de análise de risco desenvolvido com as seguintes bibliotecas e tecnologias:
 <ul>
   <li>Pandas</li>
   <li>Numpy</li>
