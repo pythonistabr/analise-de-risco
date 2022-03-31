@@ -5,7 +5,7 @@
 <li>Numpy</li>
 <li>Scikitlearn</li>
 <li>postgreSQL</li>
-<li><Psycopg2</li>
+<li>Psycopg2</li>
 </ul>
 
 <p> Este projeto é baseado no livro "Data Science Projects with Python 2°Ed. 2021" (Stephen Klosterman).
