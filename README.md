@@ -9,7 +9,7 @@
 </ul>
 
 <p> Este projeto é baseado no livro "Data Science Projects with Python 2°Ed. 2021" (Stephen Klosterman).
-<p>disponível em: https://www.oreilly.com/library/view/data-science-projects/9781800564480/</p>
+<p> Que está disponível em: https://www.oreilly.com/library/view/data-science-projects/9781800564480/</p>
 
 <h3>Scripts e etapas</h3>
 <ul>
