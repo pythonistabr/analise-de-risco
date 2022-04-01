@@ -11,10 +11,10 @@
 <h3>Scripts e etapas</h3>
 <ul>
 <h4>Limpeza</h4>
-  <li>Analise exploratoria</li>
+  <li>Análise exploratoria</li>
   <li>Remoção de valores Nulls</li>
 </ul>
 
-<h2>Material de Referencia</h2>
+<h2>Material de Referência</h2>
 <p> Este projeto está sendo desenvolvido com base no livro "Data Science Projects with Python 2ª Ed. 2021." (Stephen Klosterman)
 <p> disponível em: https://www.oreilly.com/library/view/data-science-projects/9781800564480/</p>
