@@ -4,8 +4,6 @@
 <li>Pandas</li>
 <li>Numpy</li>
 <li>Scikit-Learn</li>
-<li>postgreSQL</li>
-<li>Psycopg2</li>
 </ul>
 
 <h3>Scripts e etapas</h3>
