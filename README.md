@@ -11,6 +11,7 @@
 <h4>Limpeza</h4>
   <li>Análise exploratoria</li>
   <li>Remoção de valores Nulls</li>
+  <li>Checagem da integridade <li/>
 </ul>
 
 <h2>Referências</h2>
