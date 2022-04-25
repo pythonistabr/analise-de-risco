@@ -1,12 +1,7 @@
 # Analise de risco
 <p> Este repositorio contém scripts de um projeto de Data Science voltado para a área de análise de risco. As tecnologias utilizadas nele são:
-<ul>
-<li>Pandas</li>
-<li>Numpy</li>
-<li>Scikit-Learn</li>
-</ul>
 
-<h3>Scripts e etapas</h3>
+<h2> Etapas do projeto </h3>
 <ul>
 <h4>Limpeza</h4>
   <li>Análise exploratoria</li>
